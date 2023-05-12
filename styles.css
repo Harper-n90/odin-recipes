@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    background-color: #2e8291
+}
+
+.header {
+    background-color: #32908F;
+    padding: 2px;
+}
+
+.header > h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 42px;
+    
+}
+
+.nav {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    padding: 2px;
+    
+}
